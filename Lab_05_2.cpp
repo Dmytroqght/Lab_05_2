@@ -65,3 +65,4 @@ double A(const double x, const int n, double R)
     R *= (2.0 * n - 1) / ((2.0 * n + 1) * x * x);
     return R;
 }
+// test change
